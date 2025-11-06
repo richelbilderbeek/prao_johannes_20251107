@@ -1,6 +1,6 @@
 # Schedule
 
-## Friday November 6th 2025
+## Friday November 7th 2025
 
 Start|What
 -----|-----

@@ -1,6 +1,6 @@
 # PRAO of Johannes
 
-- When: Wednesday April 9th 2024 9:00-16:00 (see [schedule](schedule.md))
+- When: Friday November 7th 2025 9:00-16:00 (see [schedule](schedule.md))
 - Where in Uppsala: Biomedical Center, Husargatan:
   see [location](location.md) how to get there
 - Where in BMC: [office B9:430b](https://use.mazemap.com/#v=1&zlevel=4&center=17.635980,59.841862&zoom=19.9&campusid=49&desttype=poi&dest=386656):
