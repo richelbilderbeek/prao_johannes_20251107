@@ -21,11 +21,11 @@ I could have looked harder to find more feedback on the courses and found a solu
 He was good at explaining what we were supposed to do and give help on the assignments. 
 
 ## How can your supervisor be improved?
-
+Maybe write a bit simpler exercises than the last one that require less time to fit in one day.
 
 ## What would you do differently next time?
-
+come in to the last assignment more prepared, for example picking out a subject before starting it
 
 ## Which tip would you give to future PRAO students?
-
+Take time to think through and plan the assignments beforehand so you have more time to spend writing and doing the assignment
 
