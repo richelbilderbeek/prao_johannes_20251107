@@ -8,7 +8,7 @@ what did yo do, how did it go and how can it be improved?
 By forcing oneself to think of this, one can actually learn from the past.
 
 ## What did you do?
-I wrote about what the goal of prao is and who at uppmax was best at reaching that goal. I
+I wrote about what the goal of prao is and who at uppmax was best at reaching that goal. I wrote feedback on courses. I tried to code something that could be useful to scientists
 
 ## What did you do well?
 
